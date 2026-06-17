@@ -1,0 +1,16 @@
+model:
+  name: "qwen3:8b"
+  api_endpoint: "http://localhost:11434/api/generate"
+
+threshold:
+  confidence: 0.7
+
+prompt:
+  version: "v1"
+  base_path: "./prompts"
+
+data:
+  raw_dir: "./data/raw"
+  processed_dir: "./data/processed"
+  cases_dir: "./cases"
+  outputs_dir: "./outputs"

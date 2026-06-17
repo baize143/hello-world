@@ -1,0 +1,454 @@
+[
+  {
+    "text": "四人帮",
+    "keyword": "四人帮",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": true,\n  \"confidence\": 1.0,\n  \"pattern_type\": \"event\",\n  \"reason\": \"Text directly references the sensitive historical political group 'Gang of Four'\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:29:36.030367",
+    "version": "judge_v1"
+  },
+  {
+    "text": "魅力是吧然后给他包了没打上去啊三六四六那死娘们儿他妈的",
+    "keyword": "六四",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:30:36.039744",
+    "version": "judge_v1"
+  },
+  {
+    "text": "八九点",
+    "keyword": "八九",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword used as time expression in daily context, not sensitive\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:31:07.061944",
+    "version": "judge_v1"
+  },
+  {
+    "text": "四人帮",
+    "keyword": "四人帮",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": true,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"event\",\n  \"reason\": \"Refers to the sensitive historical political group 'Gang of Four' associated with the Cultural Revolution\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:35:28.216624",
+    "version": "judge_v1"
+  },
+  {
+    "text": "魅力是吧然后给他包了没打上去啊三六四六那死娘们儿他妈的",
+    "keyword": "六四",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.8,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword used as part of numeric sequence in non-sensitive context\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:36:16.401607",
+    "version": "judge_v1"
+  },
+  {
+    "text": "八九点",
+    "keyword": "八九",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.9,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword used as part of time expression (numeric context)\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:37:09.995925",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:46:37.192119",
+    "version": "judge_v1"
+  },
+  {
+    "text": "捌久的房间",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:47:37.207254",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as part of a numeric sequence (phone number/code), not in a sensitive context.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:48:28.021049",
+    "version": "judge_v1"
+  },
+  {
+    "text": "可以去89运动啊",
+    "keyword": "89运动",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": true,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"event\",\n  \"reason\": \"Text refers to the sensitive historical event '89 Movement' with explicit participation suggestion.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:49:00.430469",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:50:00.442720",
+    "version": "judge_v1"
+  },
+  {
+    "text": "6-3-+1",
+    "keyword": "63+1",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:51:00.456846",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as part of a phone number in non-sensitive context\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:51:38.099924",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears in a phone number sequence (18612978899), which is a numeric context.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:52:25.669936",
+    "version": "judge_v1"
+  },
+  {
+    "text": "163+130",
+    "keyword": "63+1",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.2,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword and text are numerical expressions without contextual or semantic linkage.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:53:18.454612",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as part of a numeric sequence (phone number), which is non-sensitive context.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:53:58.148344",
+    "version": "judge_v1"
+  },
+  {
+    "text": "三久四捌久",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:54:58.161713",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 1.0,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as part of a phone number sequence in a non-sensitive context\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:55:35.040680",
+    "version": "judge_v1"
+  },
+  {
+    "text": "捌久的房间",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:56:35.057237",
+    "version": "judge_v1"
+  },
+  {
+    "text": "6-3-+1",
+    "keyword": "63+1",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.5,\n  \"pattern_type\": \"other\",\n  \"reason\": \"Text and keyword do not match in numerical or contextual terms.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:57:27.833993",
+    "version": "judge_v1"
+  },
+  {
+    "text": "89年学潮是6月4号，所以这几天学校管得比较严格",
+    "keyword": "89|学潮",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:58:27.848583",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as part of a phone number in a non-sensitive context\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T15:59:23.569912",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:00:23.582142",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:01:23.596210",
+    "version": "judge_v1"
+  },
+  {
+    "text": "17163+19200=36363差额",
+    "keyword": "63+1",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"other\",\n  \"reason\": \"Text contains arithmetic operations but does not reference the keyword '63+1' or its conceptual meaning.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:02:03.877707",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:03:03.888753",
+    "version": "judge_v1"
+  },
+  {
+    "text": "早安美女！很高兴认识你！起了吗？可以交个朋友吗！：壹捌陆壹贰玖柒捌久久久！这个不经常上！希望和你有缘相识！",
+    "keyword": "捌久",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as part of a phone number sequence (1861297889), which is a non-sensitive numeric context.\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:03:44.953724",
+    "version": "judge_v1"
+  },
+  {
+    "text": "梦瑶这玩意太上火和家里的全家真的还年轻嘛她身穿和自己同岁,一九八九年",
+    "keyword": "一九八九",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword appears as a date (year) in non-sensitive context\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:07:59.050313",
+    "version": "judge_v1"
+  },
+  {
+    "text": "一九八九",
+    "keyword": "一九八九",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Parse failed",
+      "raw_response": "{\n  \"related\": false,\n  \"confidence\": 0.95,\n  \"pattern_type\": \"numeric\",\n  \"reason\": \"Keyword is a numeric value representing a year, used in non-sensitive context\"\n}",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:08:33.180221",
+    "version": "judge_v1"
+  },
+  {
+    "text": "六月六日是一九八九年农历二月农历的二月二十,嗯",
+    "keyword": "一九八九",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:09:33.206109",
+    "version": "judge_v1"
+  },
+  {
+    "text": "一九八九我马上抽回来了,斯文",
+    "keyword": "一九八九",
+    "ai_result": {
+      "related": false,
+      "confidence": 0.0,
+      "pattern_type": "other",
+      "reason": "Request failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
+      "low_confidence": true
+    },
+    "human_label": "",
+    "timestamp": "2026-06-17T16:10:33.245284",
+    "version": "judge_v1"
+  }
+]
